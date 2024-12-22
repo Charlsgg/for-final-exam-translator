@@ -1,1 +1,1 @@
-  # Define the translation pipeline
+  "Spanish": pipeline('translation_en_to_es'),
